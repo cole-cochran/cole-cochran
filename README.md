@@ -1,4 +1,9 @@
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+
+
+
+
+
 <a href="https://app.daily.dev/theradtastic512"><img src="https://api.daily.dev/devcards/7be2b740e85e495ba495bfc1c5298a26.png?r=1dp" width="400" alt="Cole Cochran's Dev Card"/></a>
 <!--
 **cole-cochran/cole-cochran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
