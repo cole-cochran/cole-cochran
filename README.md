@@ -5,8 +5,6 @@
 
 <h2 align="center">DevOps Engineer turned Full Stack</h2>
 
----
-
 <h3>On the weekends you can find me mountain biking,
 and getting out in nature.</h3>
 
