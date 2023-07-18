@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)>
+![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 
 ### DevOps Engineer turned Full Stack Engineer. 
