@@ -1,5 +1,6 @@
 <p align="center"
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)>
+</p>
 
 ### DevOps Engineer turned Full Stack Engineer. 
 On the weekends you can find me mountain biking, 
