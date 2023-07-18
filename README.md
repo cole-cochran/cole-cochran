@@ -1,22 +1,26 @@
-"<p align="center">
+<p align="center">
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"/>
 
 </p>
 
-<h3 align="center">DevOps Engineer turned Full Stack</h3>
+<h2 align="center">DevOps Engineer turned Full Stack</h2>
 
-<h4>On the weekends you can find me mountain biking,
-and getting out in nature.</h4>
+---
 
-<h5>🔭 I’m currently working on React TypeScript</h5>
+<h3>On the weekends you can find me mountain biking,
+and getting out in nature.</h3>
 
-<h5>🧑‍💻 Actively looking for my next developer role</h5>
+<h4>🔭 I’m currently working on React TypeScript</h4>
 
-<h5>🚵‍♂️ Mountain Biking</h5>
+<h4>🧑‍💻 Actively looking for my next developer role</h4>
 
-<h5>🎸 Punk Guitarist</h5>
+<h4>🚵‍♂️ Mountain Biking</h4>
 
-<h5>📍 ATX</h5>
+<h4>🎸 Punk Guitarist</h4>
+
+<h4>📍 ATX</h4>
+
+---
 
 <div align="center">
 <a href="https://app.daily.dev/theradtastic512"><img src="https://github.com/cole-cochran/cole-cochran/blob/main/devcard.svg" width="500" alt="Cole Cochran's Dev Card"/></a>
