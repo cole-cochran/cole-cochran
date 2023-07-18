@@ -1,13 +1,11 @@
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)>
 
 
-<p align="center">
 ### DevOps Engineer turned Full Stack Engineer. 
 On the weekends you can find me mountain biking, 
 and getting out in nature. 
 
 📍ATX
-</p>
 - 🔭 I’m currently working on React Typescript
 
 <a href="https://app.daily.dev/theradtastic512"><img src="https://api.daily.dev/devcards/7be2b740e85e495ba495bfc1c5298a26.png?r=1dp" width="500" alt="Cole Cochran's Dev Card"/></a>
