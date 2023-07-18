@@ -9,7 +9,7 @@ and getting out in nature.
 - 🔭 I’m currently working on React Typescript
 
 
-<a href="https://app.daily.dev/theradtastic512"><img src="https://github.com/cole-cochran/cole-cochran/blob/master/devcard.svg" width="500" alt="Cole Cochran's Dev Card"/></a>
+<a href="https://app.daily.dev/theradtastic512"><img src="https://github.com/cole-cochran/cole-cochran/blob/main/devcard.svg" width="500" alt="Cole Cochran's Dev Card"/></a>
 
 <!--
 **cole-cochran/cole-cochran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
