@@ -6,7 +6,7 @@ On the weekends you can find me mountain biking,
 and getting out in nature. 
 
 📍ATX
-
+</p>
 - 🔭 I’m currently working on React Typescript
 
 <a href="https://app.daily.dev/theradtastic512"><img src="https://api.daily.dev/devcards/7be2b740e85e495ba495bfc1c5298a26.png?r=1dp" width="500" alt="Cole Cochran's Dev Card"/></a>
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</p>
+
