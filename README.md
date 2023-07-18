@@ -8,7 +8,7 @@ and getting out in nature.
 📍ATX
 - 🔭 I’m currently working on React Typescript
 
-<a href="https://app.daily.dev/theradtastic512"><img src="https://api.daily.dev/devcards/7be2b740e85e495ba495bfc1c5298a26.png?r=1dp" width="500" alt="Cole Cochran's Dev Card"/></a>
+
 <a href="https://app.daily.dev/theradtastic512"><img src="https://github.com/cole-cochran/cole-cochran/blob/master/devcard.svg" width="500" alt="Cole Cochran's Dev Card"/></a>
 
 <!--
