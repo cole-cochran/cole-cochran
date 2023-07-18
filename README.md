@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
