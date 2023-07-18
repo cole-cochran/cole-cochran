@@ -3,6 +3,7 @@
 ### DevOps Engineer turned Full Stack Engineer. 
 On the weekends you can find me mountain biking, 
 and getting out in nature. 
+
 📍ATX
 
 - 🔭 I’m currently working on React Typescript
