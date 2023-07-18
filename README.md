@@ -12,6 +12,10 @@ and getting out in nature.</h4>
 
 <h5>🧑‍💻 Actively looking for my next developer role</h5>
 
+<h5>🚵‍♂️ Mountain Biking</h5>
+
+<h5>🎸 Punk Guitarist</h5>
+
 <h5>📍 ATX</h5>
 
 <div align="center">
