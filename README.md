@@ -10,8 +10,6 @@ and getting out in nature.</h3>
 
 <h4>🔭 I’m currently working on React TypeScript</h4>
 
-<h4>🧑‍💻 Actively looking for my next developer role</h4>
-
 <h4>🚵‍♂️ Mountain Biking</h4>
 
 <h4>🎸 Punk Guitarist</h4>
